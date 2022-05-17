@@ -1,5 +1,8 @@
 # _Firmware Downloader (AMOS SS 2022)_
 
+![image](https://user-images.githubusercontent.com/104498119/168901090-445c6709-dfa1-4592-a9bc-ab61af57d433.png)
+
+
 **Project Title**: Firmware Downloader and Management Tool
 
 **Industry Partner**: Siemens Energy
