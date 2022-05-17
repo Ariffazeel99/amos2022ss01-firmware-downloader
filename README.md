@@ -1,4 +1,4 @@
-# Firmware Downloader (AMOS SS 2022)
+# _Firmware Downloader (AMOS SS 2022)_
 Project Title: Firmware Downloader and Management Tool
 Industry Partner: Siemens Energy
 
@@ -13,7 +13,7 @@ In a management console,
   ● review the results, and
   ● supply additional information.
 
-Further requirements: Downloads
+**Further requirements:** Downloads
   ● can be triggered repeatedly,
   ● are incremental, and
   ● can be accessed in the management dashboard for editing.
